@@ -4,7 +4,7 @@ using CommanderGQL.Models;
 using HotChocolate;
 using HotChocolate.Types;
 
-namespace CommanderGQL.GraphQLQuery.Platforms
+namespace CommanderGQL.GraphQLQuery.Commands
 {
     public class CommandType : ObjectType<Command>
     {
